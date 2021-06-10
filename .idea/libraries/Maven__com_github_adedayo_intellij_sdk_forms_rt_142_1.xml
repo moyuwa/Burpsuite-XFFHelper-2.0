@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.adedayo.intellij.sdk:forms_rt:142.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/adedayo/intellij/sdk/forms_rt/142.1/forms_rt-142.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/adedayo/intellij/sdk/forms_rt/142.1/forms_rt-142.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/adedayo/intellij/sdk/forms_rt/142.1/forms_rt-142.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="xff-helper:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/xff_helper_jar</output-path>
+    <root id="archive" name="xff-helper.jar">
+      <element id="module-output" name="xff-helper" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/adedayo/intellij/sdk/forms_rt/142.1/forms_rt-142.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/portswigger/burp/extender/burp-extender-api/2.1/burp-extender-api-2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
