@@ -3,3 +3,4 @@
 
 ![image](https://github.com/moyuwa/Burpsuite-XFFHelper-2.0/blob/master/yourip.png)
 
+![image](Burpsuite-XFFHelper-2.0/blob/master/127ip.png)
